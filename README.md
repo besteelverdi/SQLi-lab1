@@ -1,4 +1,4 @@
-# Lab: SQL injection UNION attack, determining the number of columns returned by the query
+# Lab1: SQL injection UNION attack, determining the number of columns returned by the query
 
 Bu yazıda, PortSwingger tarafından oluşturulan SQLi lablarının ilkini inceleyeceğiz.
 
